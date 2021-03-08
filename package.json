@@ -1,0 +1,21 @@
+{
+  "name": "Sandbox_Electron",
+  "version": "0.1.1",
+  "author": "",
+  "description": "Our Sandbox Electron App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^12.0.0"
+  },
+  "dependencies": {
+    "bulma": "^0.9.2",
+    "jquery": "^3.6.0",
+    "os-utils": "0.0.14"
+  }
+}
