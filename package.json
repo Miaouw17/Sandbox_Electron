@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "bulma": "^0.9.2",
+    "custom-electron-titlebar": "^3.2.6",
     "jquery": "^3.6.0",
     "os-utils": "0.0.14"
   }
